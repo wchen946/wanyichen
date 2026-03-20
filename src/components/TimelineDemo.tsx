@@ -88,7 +88,7 @@ export function TimelineDemo() {
       content: (
         <div>
           <p className="text-neutral-800 dark:text-neutral-200 text-base md:text-lg font-normal">
-            My portfolio website
+            My portfolio website (still in progress lol)
           </p>
           <div className="mb-8">
             <div className="flex gap-2 items-center text-neutral-700 dark:text-neutral-300 text-sm md:text-base">
